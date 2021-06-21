@@ -1,0 +1,1 @@
+{"name":"Local: GFG","url":"c:\\Users\\VISHAL\\Desktop\\DS-ALGO\\Arrays\\GFG.cpp","tests":[{"id":1609616737201,"input":"10\n1 3 6 3 2 3 6 8 9 5","output":"4"},{"id":1609616829254,"input":"11 \n1 3 5 8 9 2 6 7 6 8 9","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\VISHAL\\Desktop\\DS-ALGO\\Arrays\\GFG.cpp","group":"local","local":true}

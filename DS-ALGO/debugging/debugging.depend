@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609697526 source:c:\users\vishal\desktop\ds-algo\debugging\main.cpp
+	<iostream>
+
+1614253942 source:c:\users\vishal\onedrive\desktop\ds-algo\debugging\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
